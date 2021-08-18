@@ -36,7 +36,7 @@ You just deploy your SQL Database in Azure and load sample data to it.
 
 ### 2. Deploy SQL Database to Azure
 
-Just click [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkohei3110%2FAzure-Functions-Cosmos-DB%2Fmaster%2Fazure-templates%2Fazure-functions-cosmosdb.json) button in `azure-templates/README.md`.
+Just click [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkohei3110%2FCreate-SQL-Database%2Fmaster%2Fazure-templates%2Fsql-database.json) button in `azure-templates/README.md`.
 
 ### 3. Connect to SQL Database with SQL Server Management Studio
 
